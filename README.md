@@ -1,5 +1,6 @@
-### Saudações! :smile: 
+<img src="Paloma.png">
 
+# Saudações! :smile: 
 
 :computer: Trabalho com desenvolvimento front-end desde 2019. <br />
 :mortar_board: Fui graduanda do curso de Sistemas de Informação na Faculdade Impacta, entre 2016 e 2018. Não cheguei a concluí-la. <br />
