@@ -1,11 +1,9 @@
 ## Olá! Que bom em ter você aqui! 👩‍💻
 
-Meu nome é Paloma, mas também sou conhecida por Pamela ou Paola quando meu nome é esquecido. 😄
+Meu nome é Paloma, e atuo com desenvolvimento front-end há aproximadamente 3 anos.
 
-- Atuo com desenvolvimento front-end há 3 anos;
 - Como uma pessoa curiosa, busco constantemente aprender algo novo ou me aprofundar em algum assunto no meu dia a dia, explorando diversos meios para tal e conhecendo diferentes pontos de vista.
-- Com o objetivo de aprimorar minhas habilidades e contribuições técnicas, meus estudos estão sendo direcionados para algumas das tecnologias que já possuo experiência.
-
+- Atualmente, visando o objetivo de aprimorar minhas habilidades e contribuições técnicas, meus estudos estão sendo direcionados para algumas das tecnologias que já possuo experiência.
 - Um dos meus hobbies é a leitura. Consequentemente, gosto muito de usar livros técnicos como auxílio para estudo. 
 
 ---
@@ -19,6 +17,7 @@ Meu nome é Paloma, mas também sou conhecida por Pamela ou Paola quando meu nom
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
